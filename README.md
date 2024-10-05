@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adiba-zehra
-- 👀 I’m interested in making projects and apps
-- 🌱 I’m currently learning c language
+- 👀 I’m interested in making Websites and Projects
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me adiba_zehra1803 is my insta id
 - 😄 Pronouns: she/her
