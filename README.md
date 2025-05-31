@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Adiba 🌸</h1>
-<h3 align="center">Aspiring AI Engineer | Tech Blogger | 2nd Year @ IGDTUW</h3>
+<h3 align="center"> | Tech Blogger | 2nd Year @ IGDTUW</h3>
 
 ---
 
@@ -22,9 +22,9 @@
 ---
 
 ### 📬 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sanvi-rathore-75611a289)
-- 🐦 [Twitter/X](https://x.com/sanvi280304)
-- 📫 **Email**: [your email here]
+- 🌐 [LinkedIn](https://www.linkedin.com/in/adibaz/)
+- 🐦 [Twitter/X](https://x.com/zehra_adiba?s=11&t=_Ccav0dz8h61zpmKaQAZqQ)
+- 📫 **Email**: [adibazehra18@gmail.com]
 
 ---
 
