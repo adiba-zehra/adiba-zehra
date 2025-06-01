@@ -45,61 +45,87 @@
 **Connect with me:**
 
 <p align="left">
-  <a href="https://x.com/zehra_adiba" target="_blank" style="margin-right: 0.3cm;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30" style="margin-right: 0.3cm;" />
-  </a>
+  <span style="padding-right:12px;">
+    <a href="https://x.com/zehra_adiba" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30"/>
+    </a>
+  </span>
   
-  <a href="https://www.linkedin.com/in/adibaz/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 0.3cm;" />
-  </a>
-  
-  <a href="https://leetcode.com/u/adibazehra/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30" style="margin-right: 0.3cm;" />
-  </a>
-  
-  <a href="https://codeforces.com/profile/adibazehra18" target="_blank">
-    <img src="https://sta.codeforces.com/s/42181/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="30" height="30" style="margin-right: 0.3cm;" />
-  </a>
+  <span style="padding-right:12px;">
+    <a href="https://www.linkedin.com/in/adibaz/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    </a>
+  </span>
+
+  <span style="padding-right:12px;">
+    <a href="https://leetcode.com/u/adibazehra/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
+    </a>
+  </span>
+
+  <span style="padding-right:12px;">
+    <a href="https://codeforces.com/profile/adibazehra18" target="_blank">
+      <img src="https://sta.codeforces.com/s/42181/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="30" height="30"/>
+    </a>
+  </span>
 </p>
 
 **Languages and Tools:**
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin-right: 0.3cm;" />
-  </a>
+  <span style="padding-right:12px;">
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    </a>
+  </span>
   
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin-right: 0.3cm;" />
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin-right: 0.3cm;" />
-  </a>
-  
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin-right: 0.3cm;" />
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="margin-right: 0.3cm;" />
-  </a>
-  
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="margin-right: 0.3cm;" />
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="margin-right: 0.3cm;" />
-  </a>
-  
-  <a href="https://figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" style="margin-right: 0.3cm;" />
-  </a>
-  
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="margin-right: 0.3cm;" />
-  </a>
+  <span style="padding-right:12px;">
+    <a href="https://www.w3schools.com/html/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    </a>
+  </span>
+
+  <span style="padding-right:12px;">
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    </a>
+  </span>
+
+  <span style="padding-right:12px;">
+    <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    </a>
+  </span>
+
+  <span style="padding-right:12px;">
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    </a>
+  </span>
+
+  <span style="padding-right:12px;">
+    <a href="https://getbootstrap.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+    </a>
+  </span>
+
+  <span style="padding-right:12px;">
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    </a>
+  </span>
+
+  <span style="padding-right:12px;">
+    <a href="https://figma.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+    </a>
+  </span>
+
+  <span style="padding-right:12px;">
+    <a href="https://cplusplus.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    </a>
+  </span>
 </p>
 
 ---
