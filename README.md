@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Adiba 🌸</h1>
-<h3 align="center"> | Tech Blogger | 2nd Year @ IGDTUW</h3>
+<h3 align="center"> | Web Developer | 2nd Year @ IGDTUW</h3>
 
 ---
 ## 🏆 GitHub Trophies
@@ -56,21 +56,30 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://twitter.com/adiba_zehra" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/adiba-zehra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@adiba-zehra" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="https://adiba-zehra.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF6F61.svg?&style=flat-square&logo=react&logoColor=white"/></a>
-  <a href="https://leetcode.com/adiba-zehra" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?&style=flat-square&logo=leetcode&logoColor=white"/></a>
-  <a href="https://discord.com/users/adiba-zehra" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://x.com/zehra_adiba" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adibaz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://adiba-zehra.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF6F61.svg?&style=flat-square&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/u/adibazehra/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
+
 
 ---
 
 ### 🔧 Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,figma,python" />
-</p>
 
+> Make sure you're connected to the internet — icons below are loaded from [skillicons.dev](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,bootstrap,git,figma,cpp" alt="Languages and Tools" />
+</p>
 ---
 
 ### 🔪 GitHub Stats:
@@ -85,13 +94,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adiba-zehra&theme=discord&row=1&margin-w=20&no-frame=true" />
 </p>
-
----
-
-### 📅 Current Goals:
-- Build a blog website using **Next.js**
-- Learn **TypeScript** and integrate it into React apps
-- Contribute to **Hacktoberfest** and web dev-related open source projects
-- Improve **UI/UX design** and animations with **Framer Motion**
-
----
