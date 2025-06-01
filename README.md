@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm Adiba 🌸</h1>
-<h3 align="center"> | Web Developer | 2nd Year @ IGDTUW|</h3>
+<h3 align="center"> | Web Developer | 2nd Year @ IGDTUW |</h3>
 
 ---
-## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=adiba-zehra&theme=darkhub&no-frame=true&column=8&rank=A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔪 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiba-zehra&layout=compact&theme=tokyonight" />
 
 ---
 
@@ -21,9 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiba-zehra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=adiba-zehra&color=blueviolet&style=flat-square)
 
 🎓 Pursuing B.Tech in Mechanical Engineering @IGDTUW'27
 
@@ -54,62 +52,65 @@
 
 ---
 
-### 🔗 Connect with me:
+###Connect with me:
 <p align="left">
   <a href="https://x.com/zehra_adiba" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/adibaz/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
+  
   <a href="https://leetcode.com/u/adibazehra/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
   </a>
+  
   <a href="https://codeforces.com/profile/adibazehra18" target="_blank">
     <img src="https://sta.codeforces.com/s/42181/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="30" height="30"/>
   </a>
 </p>
 
----
-
-### 🔧 Languages and Tools:
-
-> Make sure you're connected to the internet — icons below are loaded from [skillicons.dev](https://skillicons.dev)
+###Languages and Tools:
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
+  
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   </a>
+  
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   </a>
+  
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
+  
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
+  
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
   </a>
+  
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
+  
   <a href="https://figma.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </a>
+  
   <a href="https://cplusplus.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   </a>
 </p>
 ---
-
-### 🔪 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiba-zehra&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=adiba-zehra&show_icons=true&theme=tokyonight" />
 </p>
 
