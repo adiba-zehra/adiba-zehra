@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adiba 🌸</h1>
+<h1 align="center">Hola, I'm Adiba 🌱</h1>
 <h3 align="center"> | Web Developer | 2nd Year @ IGDTUW |</h3>
 
 ---
@@ -45,87 +45,61 @@
 **Connect with me:**
 
 <p align="left">
-  <span style="padding-right:12px;">
-    <a href="https://x.com/zehra_adiba" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30"/>
-    </a>
-  </span>
-  
-  <span style="padding-right:12px;">
-    <a href="https://www.linkedin.com/in/adibaz/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-    </a>
-  </span>
+  <a href="https://x.com/zehra_adiba" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <span style="padding-right:12px;">
-    <a href="https://leetcode.com/u/adibazehra/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
-    </a>
-  </span>
+  <a href="https://www.linkedin.com/in/adibaz/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <span style="padding-right:12px;">
-    <a href="https://codeforces.com/profile/adibazehra18" target="_blank">
-      <img src="https://sta.codeforces.com/s/42181/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="30" height="30"/>
-    </a>
-  </span>
+  <a href="https://leetcode.com/u/adibazehra/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/adibazehra18" target="_blank">
+    <img src="https://sta.codeforces.com/s/42181/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="30" height="30"/>
+  </a>
 </p>
 
 **Languages and Tools:**
 
 <p align="left">
-  <span style="padding-right:12px;">
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    </a>
-  </span>
-  
-  <span style="padding-right:12px;">
-    <a href="https://www.w3schools.com/html/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    </a>
-  </span>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <span style="padding-right:12px;">
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    </a>
-  </span>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <span style="padding-right:12px;">
-    <a href="https://www.javascript.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-    </a>
-  </span>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <span style="padding-right:12px;">
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    </a>
-  </span>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <span style="padding-right:12px;">
-    <a href="https://getbootstrap.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-    </a>
-  </span>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <span style="padding-right:12px;">
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-    </a>
-  </span>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <span style="padding-right:12px;">
-    <a href="https://figma.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-    </a>
-  </span>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <span style="padding-right:12px;">
-    <a href="https://cplusplus.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-    </a>
-  </span>
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </a>
 </p>
 
 ---
@@ -133,6 +107,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=adiba-zehra&show_icons=true&theme=tokyonight" />
 </p>
+
 
 ---
 
