@@ -63,7 +63,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/u/adibazehra/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/adibazehra18" target="_blank">
+    <img src="https://sta.codeforces.com/s/95912/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
   </a>
 </p>
 
