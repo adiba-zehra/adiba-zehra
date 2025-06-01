@@ -58,8 +58,8 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/adibazehra18" target="_blank">
-    <img src="https://sta.codeforces.com/s/42181/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="30" height="30"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo_bar.svg" alt="Codeforces" width="30" height="30"/>
+</a>
 </p>
 
 **Languages and Tools:**
