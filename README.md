@@ -25,11 +25,22 @@
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=adiba-zehra&color=blueviolet&style=flat-square)
 
-- 🎓 Pursuing B.Tech in Mechanical Engineering @ IGDTUW'27  
-- 💻 Currently exploring **AI/ML**, **Python**, and **Open Source**  
-- 📝 I love writing blogs on tech & self-growth  
-- 🛠️ Working on chatbot prototypes and cross-platform mobile apps  
-- 🌱 Learning: Deep Learning · React Native · GitHub Actions
+🎓 Pursuing B.Tech in Mechanical Engineering @IGDTUW'27
+
+🌐 Web Developer passionate about building clean, responsive, and accessible websites
+
+🛠️ Working with HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React.js
+
+🚀 Currently building:
+   • A personal portfolio with modern UI/UX
+   • A chatbot-integrated web app
+   • Mini projects like to-do apps, weather apps, and component libraries
+
+💻 Exploring backend basics with Node.js and Express.js
+
+📚 Learning to integrate APIs, improve performance, and deploy full-stack projects
+
+🌟 Excited about Open Source, community contributions, and collaborative coding
 
 ---
 
