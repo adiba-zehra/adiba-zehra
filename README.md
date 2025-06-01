@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Adiba 🌸</h1>
-<h3 align="center"> | Web Developer | 2nd Year @ IGDTUW</h3>
+<h3 align="center"> | Web Developer | 2nd Year @ IGDTUW|</h3>
 
 ---
 ## 🏆 GitHub Trophies
@@ -77,7 +77,33 @@
 > Make sure you're connected to the internet — icons below are loaded from [skillicons.dev](https://skillicons.dev)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,bootstrap,git,figma,cpp" alt="Languages and Tools" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </a>
 </p>
 ---
 
