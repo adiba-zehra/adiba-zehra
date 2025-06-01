@@ -57,18 +57,19 @@
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://x.com/zehra_adiba" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/adibaz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://leetcode.com/u/adibazehra/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
   </a>
   <a href="https://codeforces.com/profile/adibazehra18" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://sta.codeforces.com/s/42181/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="30" height="30"/>
   </a>
 </p>
+
 ---
 
 ### 🔧 Languages and Tools:
