@@ -54,13 +54,44 @@
 
 ---
 
-### 📬 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/adibaz/)
-- 🐦 [Twitter/X](https://x.com/zehra_adiba?s=11&t=_Ccav0dz8h61zpmKaQAZqQ)
-- 📫 **Email**: [adibazehra18@gmail.com]
+### 🔗 Connect with me:
+<p align="left">
+  <a href="https://twitter.com/adiba_zehra" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/adiba-zehra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@adiba-zehra" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="https://adiba-zehra.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF6F61.svg?&style=flat-square&logo=react&logoColor=white"/></a>
+  <a href="https://leetcode.com/adiba-zehra" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?&style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://discord.com/users/adiba-zehra" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white"/></a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Adiba's GitHub stats"/>
+### 🔧 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,figma,python" />
 </p>
+
+---
+
+### 🔪 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiba-zehra&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adiba-zehra&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🌟 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adiba-zehra&theme=discord&row=1&margin-w=20&no-frame=true" />
+</p>
+
+---
+
+### 📅 Current Goals:
+- Build a blog website using **Next.js**
+- Learn **TypeScript** and integrate it into React apps
+- Contribute to **Hacktoberfest** and web dev-related open source projects
+- Improve **UI/UX design** and animations with **Framer Motion**
+
+---
