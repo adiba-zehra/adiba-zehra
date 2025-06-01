@@ -57,18 +57,16 @@
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://x.com/zehra_adiba" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/adibaz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://adiba-zehra.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF6F61.svg?&style=flat-square&logo=react&logoColor=white" alt="Portfolio"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/u/adibazehra/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40"/>
   </a>
 </p>
+
 
 
 ---
