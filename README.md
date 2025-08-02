@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Adiba 🌱</h1>
-<h3 align="center"> | Web Developer | 2nd Year @ IGDTUW |</h3>
+<h3 align="center"> | Web Developer | 3rd Year @ IGDTUW |</h3>
 
 ---
 ### 🔪 GitHub Stats:
